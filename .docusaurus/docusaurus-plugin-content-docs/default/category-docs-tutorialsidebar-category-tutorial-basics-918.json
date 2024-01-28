@@ -1,0 +1,16 @@
+{
+  "title": "Tutorial - Basics",
+  "description": "Tutorials on how to get strated with building with BioEntrust",
+  "slug": "/category/tutorial---basics",
+  "permalink": "/docs/category/tutorial---basics",
+  "navigation": {
+    "previous": {
+      "title": "Application Integration",
+      "permalink": "/docs/API/application_integration"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/docs/tutorials/create-a-page"
+    }
+  }
+}

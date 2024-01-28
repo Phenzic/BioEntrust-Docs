@@ -1,0 +1,83 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "API/application_integration",
+              "path": "/docs/API/application_integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "API/configuration",
+              "path": "/docs/API/configuration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/congratulations",
+              "path": "/docs/tutorials/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/create-a-blog-post",
+              "path": "/docs/tutorials/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/create-a-document",
+              "path": "/docs/tutorials/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/create-a-page",
+              "path": "/docs/tutorials/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/deploy-your-site",
+              "path": "/docs/tutorials/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/markdown-features",
+              "path": "/docs/tutorials/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/api",
+              "path": "/docs/category/api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorials",
+              "path": "/docs/category/tutorials",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

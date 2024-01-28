@@ -1,0 +1,151 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Getting Started",
+        "href": "/docs/intro",
+        "docId": "intro",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "API",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Configuration",
+            "href": "/docs/API/configuration",
+            "docId": "API/configuration",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Application Integration",
+            "href": "/docs/API/application_integration",
+            "docId": "API/application_integration",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/api"
+      },
+      {
+        "type": "category",
+        "label": "Tutorials",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Create a Page",
+            "href": "/docs/tutorials/create-a-page",
+            "docId": "tutorials/create-a-page",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Create a Document",
+            "href": "/docs/tutorials/create-a-document",
+            "docId": "tutorials/create-a-document",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Create a Blog Post",
+            "href": "/docs/tutorials/create-a-blog-post",
+            "docId": "tutorials/create-a-blog-post",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Markdown Features",
+            "href": "/docs/tutorials/markdown-features",
+            "docId": "tutorials/markdown-features",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Deploy your site",
+            "href": "/docs/tutorials/deploy-your-site",
+            "docId": "tutorials/deploy-your-site",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Congratulations!",
+            "href": "/docs/tutorials/congratulations",
+            "docId": "tutorials/congratulations",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/tutorials"
+      }
+    ]
+  },
+  "docs": {
+    "API/application_integration": {
+      "id": "API/application_integration",
+      "title": "Application Integration",
+      "description": "Docusaurus can manage multiple versions of your docs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "API/configuration": {
+      "id": "API/configuration",
+      "title": "Configuration",
+      "description": "API Key Configuration: Bioentrust Blog",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Getting Started",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/congratulations": {
+      "id": "tutorials/congratulations",
+      "title": "Congratulations!",
+      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/create-a-blog-post": {
+      "id": "tutorials/create-a-blog-post",
+      "title": "Create a Blog Post",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/create-a-document": {
+      "id": "tutorials/create-a-document",
+      "title": "Create a Document",
+      "description": "Documents are groups of pages connected through:",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/create-a-page": {
+      "id": "tutorials/create-a-page",
+      "title": "Create a Page",
+      "description": "Add Markdown or React files to src/pages to create a standalone page:",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/deploy-your-site": {
+      "id": "tutorials/deploy-your-site",
+      "title": "Deploy your site",
+      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/markdown-features": {
+      "id": "tutorials/markdown-features",
+      "title": "Markdown Features",
+      "description": "Docusaurus supports Markdown and a few additional features.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

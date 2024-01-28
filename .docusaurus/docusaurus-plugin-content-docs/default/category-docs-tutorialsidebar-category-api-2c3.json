@@ -1,0 +1,15 @@
+{
+  "title": "API",
+  "slug": "/category/api",
+  "permalink": "/docs/category/api",
+  "navigation": {
+    "previous": {
+      "title": "Getting Started",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Configuration",
+      "permalink": "/docs/API/configuration"
+    }
+  }
+}
