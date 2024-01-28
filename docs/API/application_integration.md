@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
-# Manage Docs Versions
+# Application Integration
 
 Docusaurus can manage multiple versions of your docs.
 
