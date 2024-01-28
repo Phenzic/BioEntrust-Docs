@@ -2,46 +2,59 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Getting Started
 
-Let's discover **Docusaurus in less than 5 minutes**.
 
-## Getting Started
+## Introduction
+Welcome to the official documentation for Bioentrust – your trusted partner in digital services. This guide will provide you with an overview of the key services we offer, including the seamless generation of e-affidavits, robust KYC (Know Your Customer) verification, efficient E-attendance management, and secure E-consensus solutions.
 
-Get started by **creating a new site**.
+## Table of Contents
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+1. [E-affidavit](#e-affidavit)
+2. [KYC Verification](#kyc-verification)
+3. [E-attendance](#e-attendance)
+4. [E-consensus](#e-consensus)
 
-### What you'll need
+## E-affidavit
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Bioentrust's E-affidavit service simplifies the process of generating electronic affidavits, ensuring a secure and legally binding method for documentation. Users can create, sign, and share digital affidavits with ease, streamlining the traditional paper-based process.
 
-## Generate a new site
+### Features:
+- **Digital Affidavit Creation:** Easily create affidavits online.
+- **Secure Signatures:** Enable secure digital signatures for authenticity.
+- **Effortless Sharing:** Share completed affidavits electronically.
 
-Generate a new Docusaurus site using the **classic template**.
+## KYC Verification
 
-The classic template will automatically be added to your project after you run the command:
+Our KYC verification service empowers businesses with robust identity verification tools, enhancing security and compliance. Ensure the trustworthiness of your users with Bioentrust's advanced KYC solutions.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+### Features:
+- **Document Verification:** Verify identity documents seamlessly.
+- **Biometric Authentication:** Implement biometric methods for added security.
+- **Compliance Assurance:** Stay compliant with regulatory requirements.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## E-attendance
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+Bioentrust's E-attendance service modernizes attendance tracking, providing organizations with an efficient and reliable solution. Say goodbye to manual attendance sheets and embrace the digital era.
 
-## Start your site
+### Features:
+- **Automated Attendance Tracking:** Streamline attendance recording.
+- **Real-time Reporting:** Access up-to-date attendance data instantly.
+- **Customizable Settings:** Adapt the system to your organization's specific needs.
 
-Run the development server:
+## E-consensus
 
-```bash
-cd my-website
-npm run start
-```
+Facilitate secure and efficient decision-making processes with Bioentrust's E-consensus service. Whether it's board resolutions or team agreements, our platform ensures a transparent and traceable consensus-building experience.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+### Features:
+- **Secure Collaboration:** Facilitate consensus-building in a secure environment.
+- **Audit Trail:** Keep a transparent record of decisions.
+- **Multi-level Authorization:** Define roles and permissions for consensus participants.
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+## Conclusion
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Bioentrust is committed to providing innovative digital solutions that simplify and secure various aspects of your business processes. For detailed instructions on utilizing each service, refer to the specific sections in this documentation.
+
+_**Thank you for choosing Bioentrust – your partner in digital trust**_.
+
+---
