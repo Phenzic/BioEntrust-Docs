@@ -82,7 +82,7 @@
           },
           {
             "type": "link",
-            "label": "Congratulations!",
+            "label": "congratulations",
             "href": "/docs/tutorials/congratulations",
             "docId": "tutorials/congratulations",
             "unlisted": false
@@ -113,8 +113,8 @@
     },
     "tutorials/congratulations": {
       "id": "tutorials/congratulations",
-      "title": "Congratulations!",
-      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+      "title": "congratulations",
+      "description": "<!-- <!-- ---",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/create-a-blog-post": {
