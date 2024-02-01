@@ -99,15 +99,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '786'),
+    component: ComponentCreator('/docs', '160'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'd22'),
+        component: ComponentCreator('/docs', 'f49'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'e5a'),
+            component: ComponentCreator('/docs', '351'),
             routes: [
               {
                 path: '/docs/API/application_integration',
@@ -136,12 +136,6 @@ export default [
               {
                 path: '/docs/intro',
                 component: ComponentCreator('/docs/intro', 'aed'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/congratulations',
-                component: ComponentCreator('/docs/tutorials/congratulations', 'c42'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

@@ -26,11 +26,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorials/congratulations",
-              "path": "/docs/tutorials/congratulations",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "tutorials/create-a-blog-post",
               "path": "/docs/tutorials/create-a-blog-post",
               "sidebar": "tutorialSidebar"

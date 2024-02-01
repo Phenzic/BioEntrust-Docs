@@ -186,17 +186,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-786": {
+  "/docs-160": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docs-62-d-434"
     }
   },
-  "/docs-d22": {
+  "/docs-f49": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-e5a": {
+  "/docs-351": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/API/application_integration-639": {
@@ -218,10 +218,6 @@
   "/docs/intro-aed": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
-  },
-  "/docs/tutorials/congratulations-c42": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-congratulations-5-bf-350"
   },
   "/docs/tutorials/create-a-blog-post-80f": {
     "__comp": "__comp---theme-doc-item-178-a40",

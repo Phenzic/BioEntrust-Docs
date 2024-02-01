@@ -97,26 +97,6 @@
               }
             },
             {
-              "id": "tutorials/congratulations",
-              "title": "congratulations",
-              "description": "<!-- <!-- ---",
-              "source": "@site/docs/tutorials/congratulations.md",
-              "sourceDirName": "tutorials",
-              "slug": "/tutorials/congratulations",
-              "permalink": "/docs/tutorials/congratulations",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorials/congratulations.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Deploy your site",
-                "permalink": "/docs/tutorials/deploy-your-site"
-              }
-            },
-            {
               "id": "tutorials/create-a-blog-post",
               "title": "Create a Blog Post",
               "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
@@ -218,10 +198,6 @@
               "previous": {
                 "title": "Markdown Features",
                 "permalink": "/docs/tutorials/markdown-features"
-              },
-              "next": {
-                "title": "congratulations",
-                "permalink": "/docs/tutorials/congratulations"
               }
             },
             {
@@ -305,10 +281,6 @@
                   {
                     "type": "doc",
                     "id": "tutorials/deploy-your-site"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorials/congratulations"
                   }
                 ],
                 "link": {

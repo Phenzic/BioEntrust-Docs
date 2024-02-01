@@ -79,13 +79,6 @@
             "href": "/docs/tutorials/deploy-your-site",
             "docId": "tutorials/deploy-your-site",
             "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "congratulations",
-            "href": "/docs/tutorials/congratulations",
-            "docId": "tutorials/congratulations",
-            "unlisted": false
           }
         ],
         "href": "/docs/category/tutorials"
@@ -109,12 +102,6 @@
       "id": "intro",
       "title": "Getting Started",
       "description": "Introduction",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorials/congratulations": {
-      "id": "tutorials/congratulations",
-      "title": "congratulations",
-      "description": "<!-- <!-- ---",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/create-a-blog-post": {
