@@ -1,3 +1,3 @@
-BioEntrust Documentation
+## BioEntrust Documentation
 
 
